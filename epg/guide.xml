@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="Mega HD (CHI)(MEGAHD)(150)">
+    <display-name lang="es">Mega HD (CHI)(MEGAHD)(150)</display-name>
+    <url>http://www.directv.cl</url>
+  </channel>
+  <channel id="Chilevisión (CHI)(CHV)(151)">
+    <display-name lang="es">Chilevisión (CHI)(CHV)(151)</display-name>
+    <url>http://www.directv.cl</url>
+  </channel>
+  <channel id="Chilevisión HD (CHI)(CHVHD)(151)">
+    <display-name lang="es">Chilevisión HD (CHI)(CHVHD)(151)</display-name>
+    <url>http://www.directv.cl</url>
+  </channel>
+  <channel id="Canal 13 Chile HD(C13HD)(152)">
+    <display-name lang="es">Canal 13 Chile HD(C13HD)(152)</display-name>
+    <url>http://www.directv.cl</url>
+  </channel>
+  <channel id="Canal 13 (CHI)(C13)(152)">
+    <display-name lang="es">Canal 13 (CHI)(C13)(152)</display-name>
+    <url>http://www.directv.cl</url>
+  </channel>
+  <channel id="FX(FX)(217)">
+    <display-name lang="es">FX(FX)(217)</display-name>
+    <url>http://www.directv.cl</url>
+  </channel>
+  <programme start="20220913000000 +0100" stop="20220913235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+</tv>
